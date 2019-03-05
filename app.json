@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "blank_upload",
+    "name": "react Native To Do",
+    "description": "To Do App Made with react Native ",
     "slug": "reactNative-todo",
     "privacy": "public",
     "sdkVersion": "32.0.0",
